@@ -27,5 +27,5 @@ Upload the task which has been assigned to you
 		a sample text over that image -->
 	<div id="header-image-menu">
 
-	</div>
+
 </header>
